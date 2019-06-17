@@ -1,7 +1,8 @@
 # Tigerstein-The-V3
 A Wolfinstein inspired FPS.
+Filesize: 21.9 MB
 
-Built in Blender 2.79
+Built in <a href="https://www.blender.org/download/">Blender 2.79<a/>
 
 Game was built in 7 days and entered in BGMC 29. Theme - Retro
 
